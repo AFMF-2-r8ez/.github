@@ -1,0 +1,1 @@
+AFMF 2 - AFMF 2 improved interpolation and latency for Radeon GPUs
